@@ -56,6 +56,14 @@ export default function Home() {
 
           <div className="flex items-center gap-4">
             <a
+              href="https://github.com/officialrajdeepsingh/takumi-demo"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xs sm:text-sm font-medium text-zinc-400 hover:text-white transition-colors"
+            >
+              GitHub &rarr;
+            </a>
+            <a
               href="https://takumi.kane.tw/docs/integration/nextjs"
               target="_blank"
               rel="noopener noreferrer"

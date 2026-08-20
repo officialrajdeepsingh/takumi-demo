@@ -1,6 +1,13 @@
 {
   "name": "takumi",
   "version": "0.1.0",
+  "description": "High-performance server-side OpenGraph image generator built with Next.js 16 and Takumi Rust rendering engine.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialrajdeepsingh/takumi-demo.git"
+  },
+  "author": "Rajdeep Singh",
+  "license": "MIT",
   "private": true,
   "scripts": {
     "dev": "next dev",

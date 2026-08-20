@@ -181,6 +181,7 @@ export default async function Image() {
 
 ## 📖 Learn More & Resources
 
+- [GitHub Repository](https://github.com/officialrajdeepsingh/takumi-demo)
 - [Takumi Official Integration Docs](https://takumi.kane.tw/docs/integration/nextjs)
 - [Next.js App Router Metadata Documentation](https://nextjs.org/docs/app/building-your-application/optimizing/metadata)
 
