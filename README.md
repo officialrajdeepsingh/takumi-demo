@@ -4,6 +4,7 @@ A high-performance social preview (OpenGraph) card generator built with **Next.j
 
 Takumi uses high-performance Rust bindings (`@takumi-rs/core`) to render HTML/JSX into pixel-perfect PNG images with sub-millisecond server-side rendering latency, serving as a drop-in replacement for `@vercel/og` and Satori.
 
+>  [No Browser, No SVG Detour, Just JSX -> Image](https://medium.com/frontendweb/no-browser-no-svg-detour-just-jsx-image-dfc915da4fd3)
 ---
 
 ## 📸 Preview
@@ -184,4 +185,6 @@ export default async function Image() {
 - [GitHub Repository](https://github.com/officialrajdeepsingh/takumi-demo)
 - [Takumi Official Integration Docs](https://takumi.kane.tw/docs/integration/nextjs)
 - [Next.js App Router Metadata Documentation](https://nextjs.org/docs/app/building-your-application/optimizing/metadata)
+- [No Browser, No SVG Detour, Just JSX -> Image](https://medium.com/frontendweb/no-browser-no-svg-detour-just-jsx-image-dfc915da4fd3)
+
 
