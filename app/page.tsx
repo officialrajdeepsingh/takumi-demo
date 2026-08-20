@@ -228,6 +228,7 @@ export default function Home() {
                   height={630}
                   className="w-full h-full object-cover transition-opacity duration-300"
                   unoptimized={true}
+                  loading="eager"
                 />
               </div>
 
